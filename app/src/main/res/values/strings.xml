@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">convertitoreMigliaKilometri</string>
+    <string name="km">Km</string>
+    <string name="mi">Mi</string>
+</resources>
